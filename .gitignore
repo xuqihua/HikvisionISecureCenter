@@ -1,0 +1,9 @@
+.idea
+.vscode
+/vendor/
+node_modules
+.DS_Store
+composer.lock
+cache
+!/src/Libraries/Cache
+test.*

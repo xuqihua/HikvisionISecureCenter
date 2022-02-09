@@ -1,0 +1,18 @@
+{
+    "name": "xuqihua/hikvision",
+    "description": "海康sdk",
+    "keywords": ["海康", "海康威视", "hikvision", "iSecure Center", "OpenAPI"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [],
+    "version": "1.0.0",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {},
+    "minimum-stability": "stable",
+    "autoload": {
+        "classmap": ["HikvisionISecureCenter.php"]
+    },
+    "autoload-dev": {}
+}
