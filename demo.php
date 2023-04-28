@@ -1,5 +1,5 @@
 <?php
-include './HikvisionISecureCenter.php'
+include './HikvisionISecureCenter.php';
 
 $h      = new HikvisionISecureCenter("https://192.168.1.1", "app_key", "app_secret");
 $token  = '';
